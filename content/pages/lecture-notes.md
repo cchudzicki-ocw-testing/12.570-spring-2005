@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Sample lecture notes and presentations.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

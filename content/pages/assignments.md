@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Every week, groups present the assigned readings. This section contains
+  samples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
